@@ -3,7 +3,7 @@ const app = express();
 const dotenv = require("dotenv");
 const mongoose = require("mongoose");
 
-const port = 8000;
+const port = 1200;//choose the port you want
 dotenv.config();
 
 mongoose.connect(process.env.MONGO_URL)
