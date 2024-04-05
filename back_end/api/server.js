@@ -5,7 +5,7 @@ const mongoose = require("mongoose");
 const auth = require("./routes/auth");
 const user = require("./routes/users");
 
-const port = 3000;//choose the port you want just check isn't by something else
+const port = 3001;//choose the port you want just check isn't by something else
 dotenv.config();
 
 mongoose.connect(process.env.MONGO_URL)
