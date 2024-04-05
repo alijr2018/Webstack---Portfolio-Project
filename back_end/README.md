@@ -1,3 +1,0 @@
-# Backend
-
-Install Mongo DB
