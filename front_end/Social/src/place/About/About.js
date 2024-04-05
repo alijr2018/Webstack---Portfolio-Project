@@ -1,5 +1,5 @@
 import React from "react";
-import AboutH from "./About.html";
+import AboutH from "./index.html";
 import Header from "../Header/Header";
 import Footer from "../Footer/Footer";
 import SearchBar from "../utils/SearchBar";
