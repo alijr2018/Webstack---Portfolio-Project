@@ -1,0 +1,17 @@
+
+.site-footer {
+	margin-top: auto;
+	position: absolute;
+	bottom: 0;
+	/*width: 100%;*/
+	bottom: 0;
+	left: 0;
+	right: 0;
+	/*background-color: #000000; /* Example background color */
+	background: linear-gradient(to right, #ff0000, #0000ff);
+	font-family: Arial, sans-serif;
+	color: #000000;
+	padding: 10px;
+	text-align: center;
+}
+
